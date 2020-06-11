@@ -1,0 +1,81 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="Print_Care.NewJobDetails"
+	x:Name="Window"
+	Title="New Job Details"
+	Width="456" Height="621" Background="#FF17171A" Loaded="Window_Loaded">
+
+	<Grid x:Name="LayoutRoot">
+		<TextBlock HorizontalAlignment="Left" Height="15" Margin="40,68,0,0" TextWrapping="Wrap" Text="Job ID&#x9;" VerticalAlignment="Top" Width="77" Foreground="#FFFFF6F6"/>
+		<TextBox Margin="153,67,54,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="26" BorderThickness="1,4,1,1" Name="txtJobID">
+			<TextBox.BorderBrush>
+				<LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+					<GradientStop Color="White"/>
+					<GradientStop Color="White"/>
+					<GradientStop Color="#FFFAFAFB"/>
+				</LinearGradientBrush>
+			</TextBox.BorderBrush>
+		</TextBox>
+		<TextBlock HorizontalAlignment="Left" Height="15" Margin="40,111,0,0" TextWrapping="Wrap" Text="Provided sample" VerticalAlignment="Top" Width="100" Foreground="#FFFFF6F6"/>
+		<Image Height="100" Margin="153,111,54,0" VerticalAlignment="Top" Name="imgSample" />
+		<TextBlock HorizontalAlignment="Left" Height="15" Margin="40,233,0,0" TextWrapping="Wrap" Text="No of colours" VerticalAlignment="Top" Width="109" Foreground="#FFFFF6F6"/>
+		<TextBox Margin="153,227,54,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="26" BorderThickness="1,4,1,1" Name="txtNoOfColours">
+			<TextBox.BorderBrush>
+				<LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+					<GradientStop Color="White"/>
+					<GradientStop Color="White"/>
+					<GradientStop Color="#FFFAFAFB"/>
+				</LinearGradientBrush>
+			</TextBox.BorderBrush>
+		</TextBox>
+		<TextBlock HorizontalAlignment="Left" Margin="40,264,0,0" TextWrapping="Wrap" Text="Starting position(From left)" Width="100" Foreground="#FFFFF6F6" Height="34" VerticalAlignment="Top"/>
+		<TextBox Margin="153,265,54,0" TextWrapping="Wrap" BorderThickness="1,4,1,1" Height="26" VerticalAlignment="Top" Name="txtStartingPosition">
+			<TextBox.BorderBrush>
+				<LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+					<GradientStop Color="White"/>
+					<GradientStop Color="White"/>
+					<GradientStop Color="#FFFAFAFB"/>
+				</LinearGradientBrush>
+			</TextBox.BorderBrush>
+		</TextBox>
+		<TextBlock HorizontalAlignment="Left" Margin="40,0,0,256" TextWrapping="Wrap" Width="100" Foreground="#FFFFF6F6" Text="Width of the job" Height="18" VerticalAlignment="Bottom"/>
+		<TextBox Margin="153,302,54,0" TextWrapping="Wrap" BorderThickness="1,4,1,1" Height="26" VerticalAlignment="Top" Name="txtWidthOfJob">
+			<TextBox.BorderBrush>
+				<LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+					<GradientStop Color="White"/>
+					<GradientStop Color="White"/>
+					<GradientStop Color="#FFFAFAFB"/>
+				</LinearGradientBrush>
+			</TextBox.BorderBrush>
+		</TextBox>
+		<TextBlock HorizontalAlignment="Left" Margin="40,0,0,216" TextWrapping="Wrap" Text="Height of the job" Width="109" Foreground="#FFFFF6F6" Height="20" VerticalAlignment="Bottom"/>
+		<TextBox Margin="153,340,54,0" TextWrapping="Wrap" BorderThickness="1,4,1,1" Height="26" VerticalAlignment="Top" Name="txtHeightOfJob">
+			<TextBox.BorderBrush>
+				<LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+					<GradientStop Color="White"/>
+					<GradientStop Color="White"/>
+					<GradientStop Color="#FFFAFAFB"/>
+				</LinearGradientBrush>
+			</TextBox.BorderBrush>
+		</TextBox>
+		<TextBlock HorizontalAlignment="Left" Margin="40,0,0,181" TextWrapping="Wrap" Width="109" Foreground="#FFFFF6F6" Height="17" VerticalAlignment="Bottom" Text="Expected deadline"/>
+        <TextBlock HorizontalAlignment="Left" Margin="40,0,0,145" TextWrapping="Wrap" Text="Note" Width="77" Foreground="#FFFFF6F6" Height="15" VerticalAlignment="Bottom"/>
+		<TextBox Margin="153,416,54,0" TextWrapping="Wrap" BorderThickness="1,4,1,1" Height="86" VerticalAlignment="Top" Name="txtNote">
+			<TextBox.BorderBrush>
+				<LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+					<GradientStop Color="White"/>
+					<GradientStop Color="White"/>
+					<GradientStop Color="#FFFAFAFB"/>
+				</LinearGradientBrush>
+			</TextBox.BorderBrush>
+		</TextBox>
+        <Button Content="Cancel" HorizontalAlignment="Left" Height="27" Margin="306,524,0,0" VerticalAlignment="Top" Width="68" Name="btnCancel" />
+		<Button Content="Reset" HorizontalAlignment="Left" Margin="221,524,0,0" Width="79" Height="27" VerticalAlignment="Top" Name="btnReset" />
+		<Button Content="Save" Height="27" Margin="153,524,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="62" Name="btnSave" Click="btnSave_Click" />
+		<Button Content="Open Sample" HorizontalAlignment="Right" Height="25" Margin="0,526,294,0" VerticalAlignment="Top" Width="100" Name="btnOpen" Click="btnOpen_Click" />
+        <ComboBox Height="30" HorizontalAlignment="Left" Margin="153,24,0,0" Name="cmbMachineID" VerticalAlignment="Top" Width="236" />
+        <TextBlock Foreground="#FFFFF6F6" Height="15" HorizontalAlignment="Left" Margin="40,33,0,0" Text="Machine ID" TextWrapping="Wrap" VerticalAlignment="Top" Width="77" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="153,379,0,0" Name="dtpExpectedDeadLine" VerticalAlignment="Top" Width="236" />
+    </Grid>
+</Window>

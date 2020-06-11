@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="PrintCare">
+  <DataContextMoniker Name="/PrintCareDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0b98064b-7934-44ef-9e04-2da0b9a891d6" absoluteBounds="3.5, 1, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/PrintCareDataContext/Machine" />
+      <nestedChildShapes>
+        <elementListCompartment Id="280b808c-54da-4461-8708-935e594fc307" absoluteBounds="3.515, 1.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a5c5023c-6d36-43c2-ace2-2030ad1f3e26" absoluteBounds="0.75, 1.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/PrintCareDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="75bf8c2d-8826-47df-9eb3-91784fb332dd" absoluteBounds="0.765, 1.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.28929768880208); (3.5 : 2.28929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/PrintCareDataContext/User/User_Machine" />
+      <nodes>
+        <classShapeMoniker Id="a5c5023c-6d36-43c2-ace2-2030ad1f3e26" />
+        <classShapeMoniker Id="0b98064b-7934-44ef-9e04-2da0b9a891d6" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="b21445ad-bb3a-43cd-a88d-ddd46aea43aa" absoluteBounds="5.875, 5.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/PrintCareDataContext/Comparision" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6918e9d2-6321-489f-bc4b-c4088405076d" absoluteBounds="5.89, 5.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f8bfbc45-9c92-4da9-ab09-f17d27b2abb3" absoluteBounds="8.25, 2.625, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/PrintCareDataContext/Printing_Job" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ae900a3d-1ebe-46b0-8a6e-cdb234cb5bda" absoluteBounds="8.265, 3.085, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(9.25 : 5.35740397135417); (9.25 : 6.189150890625); (7.875 : 6.189150890625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/PrintCareDataContext/Printing_Job/Printing_Job_Comparision" />
+      <nodes>
+        <classShapeMoniker Id="f8bfbc45-9c92-4da9-ab09-f17d27b2abb3" />
+        <classShapeMoniker Id="b21445ad-bb3a-43cd-a88d-ddd46aea43aa" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3.17870198567708); (8.25 : 3.17870198567708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/PrintCareDataContext/Machine/Machine_Printing_Job" />
+      <nodes>
+        <classShapeMoniker Id="0b98064b-7934-44ef-9e04-2da0b9a891d6" />
+        <classShapeMoniker Id="f8bfbc45-9c92-4da9-ab09-f17d27b2abb3" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

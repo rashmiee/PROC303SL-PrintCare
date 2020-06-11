@@ -1,0 +1,182 @@
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.exe.config
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.pdb
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditJobDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditMachineDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EnterMachineDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\MainWindow.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\NewJobDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobList.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineList.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\MainWindow.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditJobDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditMachineDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EnterMachineDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\MainWindow.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\NewJobDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobList.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineList.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\MainWindow.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\App.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry_MarkupCompile.cache
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.g.resources
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.Properties.Resources.resources
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.csproj.GenerateResource.Cache
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.pdb
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\JobControlPanel.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\JobControlPanel.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\Aurigma.GraphicsMill.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.csprojResolveAssemblyReference.cache
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditJobDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditMachineDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EnterMachineDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\JobControlPanel.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\MainWindow.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\NewJobDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobList.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineDetails.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineList.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\Window1.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\MainWindow.baml
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditJobDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditMachineDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EnterMachineDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\JobControlPanel.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\MainWindow.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\NewJobDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobList.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineDetails.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineList.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\Window1.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\MainWindow.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\App.g.cs
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry_MarkupCompile.cache
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.g.resources
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.Properties.Resources.resources
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.csproj.GenerateResource.Cache
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.exe.config
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.pdb
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Controls.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Imaging.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Math.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\Aurigma.GraphicsMill.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\RegisterMarkAnalizer.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\ShapeChecker.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\RegisterMarkAnalizer.pdb
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\ShapeChecker.pdb
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.pdb
+D:\SLIIL\Our Project\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.exe.config
+D:\SLIIL\Our Project\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.exe
+D:\SLIIL\Our Project\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.pdb
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.exe.config
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.exe
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.pdb
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Controls.dll
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.dll
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Imaging.dll
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Math.dll
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\RegisterMarkAnalizer.exe
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\ShapeChecker.exe
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Video.dll
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\RegisterMarkAnalizer.pdb
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\ShapeChecker.pdb
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.pdb
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.xml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Controls.xml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Imaging.xml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Math.xml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Video.xml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.csprojAssemblyReference.cache
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditJobDetails.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditMachineDetails.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EnterMachineDetails.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\JobControlPanel.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\MainWindow.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\NewJobDetails.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobDetails.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobList.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineDetails.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineList.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\Window1.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\MainWindow.baml
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditJobDetails.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditMachineDetails.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EnterMachineDetails.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\JobControlPanel.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\MainWindow.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\NewJobDetails.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobDetails.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobList.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineDetails.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineList.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\Window1.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\App.g.cs
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry_MarkupCompile.cache
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.g.resources
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.Properties.Resources.resources
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.csproj.GenerateResource.cache
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.csproj.CopyComplete
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.exe
+C:\Users\Cemex\Downloads\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.pdb
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.exe.config
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.exe
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\PrintCareThirdTry.pdb
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Controls.dll
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.dll
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Imaging.dll
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Math.dll
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\RegisterMarkAnalizer.exe
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\ShapeChecker.exe
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Video.dll
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\RegisterMarkAnalizer.pdb
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\ShapeChecker.pdb
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.pdb
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.xml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Controls.xml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Imaging.xml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Math.xml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\bin\Debug\AForge.Video.xml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditJobDetails.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditMachineDetails.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EnterMachineDetails.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\JobControlPanel.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\MainWindow.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\NewJobDetails.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobDetails.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobList.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineDetails.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineList.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\Window1.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\MainWindow.baml
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditJobDetails.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EditMachineDetails.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\EnterMachineDetails.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\JobControlPanel.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\MainWindow.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\NewJobDetails.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobDetails.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewJobList.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineDetails.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\ViewMachineList.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\GUI\Window1.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\App.g.cs
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry_MarkupCompile.cache
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.g.resources
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.exe
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\PrintCareThirdTry\PrintCareThirdTry\obj\x86\Debug\PrintCareThirdTry.pdb

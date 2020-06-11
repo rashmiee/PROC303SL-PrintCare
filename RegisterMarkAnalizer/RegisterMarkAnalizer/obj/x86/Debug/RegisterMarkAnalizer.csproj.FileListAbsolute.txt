@@ -1,0 +1,42 @@
+D:\Edu\1st Seme\PROJECT\Implimentation\NewComponants\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\RegisterMarkAnalizer.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\NewComponants\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\RegisterMarkAnalizer.pdb
+D:\Edu\1st Seme\PROJECT\Implimentation\NewComponants\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\Aurigma.GraphicsMill.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\NewComponants\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Form1.resources
+D:\Edu\1st Seme\PROJECT\Implimentation\NewComponants\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Form2.resources
+D:\Edu\1st Seme\PROJECT\Implimentation\NewComponants\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Properties.Resources.resources
+D:\Edu\1st Seme\PROJECT\Implimentation\NewComponants\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.csproj.GenerateResource.Cache
+D:\Edu\1st Seme\PROJECT\Implimentation\NewComponants\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\NewComponants\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.pdb
+D:\Edu\1st Seme\PROJECT\Implimentation\NewComponants\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.csprojResolveAssemblyReference.cache
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.csprojResolveAssemblyReference.cache
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Form1.resources
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Form2.resources
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Properties.Resources.resources
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.csproj.GenerateResource.Cache
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\RegisterMarkAnalizer.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\RegisterMarkAnalizer.pdb
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\Aurigma.GraphicsMill.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\Aurigma.GraphicsMill.WinControls.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\Aurigma.GraphicsMill.WinControls.VectorObjects.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\New\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.pdb
+C:\Users\Cemex\Downloads\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\RegisterMarkAnalizer.exe
+C:\Users\Cemex\Downloads\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\RegisterMarkAnalizer.pdb
+C:\Users\Cemex\Downloads\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.csprojAssemblyReference.cache
+C:\Users\Cemex\Downloads\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Form1.resources
+C:\Users\Cemex\Downloads\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Form2.resources
+C:\Users\Cemex\Downloads\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Properties.Resources.resources
+C:\Users\Cemex\Downloads\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.csproj.GenerateResource.cache
+C:\Users\Cemex\Downloads\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.csproj.CopyComplete
+C:\Users\Cemex\Downloads\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.exe
+C:\Users\Cemex\Downloads\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.pdb
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\RegisterMarkAnalizer.exe
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\RegisterMarkAnalizer\RegisterMarkAnalizer\bin\Debug\RegisterMarkAnalizer.pdb
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Form1.resources
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Form2.resources
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.exe
+C:\Users\ASUS\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Print Care 1.0\RegisterMarkAnalizer\RegisterMarkAnalizer\obj\x86\Debug\RegisterMarkAnalizer.pdb

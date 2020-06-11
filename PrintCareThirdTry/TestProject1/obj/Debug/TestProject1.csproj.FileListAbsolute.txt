@@ -1,0 +1,10 @@
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\TestProject1\bin\Debug\TestProject1.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\TestProject1\bin\Debug\TestProject1.pdb
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\TestProject1\bin\Debug\Aurigma.GraphicsMill.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\TestProject1\bin\Debug\PrintCareThirdTry.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\TestProject1\bin\Debug\PrintCareThirdTry.pdb
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\TestProject1\bin\Debug\PrintCareThirdTry_Accessor.exe
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\TestProject1\bin\Debug\PrintCareThirdTry_Accessor.pdb
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\TestProject1\obj\Debug\TestProject1.dll
+D:\Edu\1st Seme\PROJECT\Implimentation\New\PrintCareThirdTry\TestProject1\obj\Debug\TestProject1.pdb

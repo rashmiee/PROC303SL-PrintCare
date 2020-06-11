@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{403987E1-8892-46CE-A950-209028907120}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PrintCareThirdTry</RootNamespace>
+    <AssemblyName>PrintCareThirdTry</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge">
+      <HintPath>C:\Program Files (x86)\AForge.NET\IPLab\Sources\bin\Debug\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Controls">
+      <HintPath>C:\Program Files (x86)\AForge.NET\IPLab\Sources\bin\Debug\AForge.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging">
+      <HintPath>C:\Program Files (x86)\AForge.NET\IPLab\Sources\bin\Debug\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math">
+      <HintPath>C:\Program Files (x86)\AForge.NET\IPLab\Sources\bin\Debug\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="Aurigma.GraphicsMill, Version=5.5.6.0, Culture=neutral, PublicKeyToken=af7154c50c505858, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Aurigma\Aurigma.GraphicsMill.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="GUI\EditJobDetails.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GUI\EditMachineDetails.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GUI\EnterMachineDetails.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GUI\JobControlPanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GUI\NewJobDetails.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GUI\ViewJobDetails.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GUI\ViewJobList.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GUI\ViewMachineDetails.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GUI\ViewMachineList.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GUI\Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\DatabaseImplimentor.cs" />
+    <Compile Include="Classes\JobClass.cs" />
+    <Compile Include="Classes\MachineClass.cs" />
+    <Compile Include="Database\PrintCare.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PrintCare.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EditJobDetails.xaml.cs">
+      <DependentUpon>EditJobDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EditMachineDetails.xaml.cs">
+      <DependentUpon>EditMachineDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EnterMachineDetails.xaml.cs">
+      <DependentUpon>EnterMachineDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\JobControlPanel.xaml.cs">
+      <DependentUpon>JobControlPanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\NewJobDetails.xaml.cs">
+      <DependentUpon>NewJobDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ViewJobDetails.xaml.cs">
+      <DependentUpon>ViewJobDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ViewJobList.xaml.cs">
+      <DependentUpon>ViewJobList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ViewMachineDetails.xaml.cs">
+      <DependentUpon>ViewMachineDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ViewMachineList.xaml.cs">
+      <DependentUpon>ViewMachineList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Database\PrintCare.dbml.layout">
+      <DependentUpon>PrintCare.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Database\PrintCare.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>PrintCare.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\RegisterMarkAnalizer\RegisterMarkAnalizer\RegisterMarkAnalizer.csproj">
+      <Project>{AA7E8190-FEC4-4602-A370-9FB27828964C}</Project>
+      <Name>RegisterMarkAnalizer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ShapeChecker\ShapeChecker_src\ShapeChecker.csproj">
+      <Project>{722FD1AB-4193-45B1-A94E-10B6E5C9AA05}</Project>
+      <Name>ShapeChecker</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

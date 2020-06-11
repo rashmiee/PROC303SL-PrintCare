@@ -1,0 +1,12 @@
+﻿<Window x:Class="PrintCareThirdTry.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="318" Width="525">
+    <Grid>
+        <Button Content="Enter Machine Details" Height="46" HorizontalAlignment="Left" Margin="12,12,0,0" Name="btnEnterMachineDetails" VerticalAlignment="Top" Width="479" Click="btnEnterMachineDetails_Click" />
+        <Button Content="New Job Details" Height="46" HorizontalAlignment="Left" Margin="12,64,0,0" Name="btnEnterNewJobDetails" VerticalAlignment="Top" Width="479" Click="btnEnterNewJobDetails_Click" />
+        <Button Content="Job Control Panel" Height="46" HorizontalAlignment="Left" Margin="12,116,0,0" Name="btnJobControlPanel" VerticalAlignment="Top" Width="479" Click="btnJobControlPanel_Click" />
+        <Button Content="Registration Marks Analyzer" Height="46" HorizontalAlignment="Left" Margin="12,168,0,0" Name="button1" VerticalAlignment="Top" Width="479" Click="button1_Click" />
+        <Button Content="Dot Analyzer" Height="46" HorizontalAlignment="Left" Margin="12,221,0,0" Name="button2" VerticalAlignment="Top" Width="479" Click="button2_Click" />
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="Print_Care.ViewMAchineList"
+	x:Name="Window"
+	Title="View Machine List"
+	Width="450" Height="450" Background="#FF17171A">
+
+	<Grid x:Name="LayoutRoot">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="170*" />
+            <ColumnDefinition Width="258*" />
+        </Grid.ColumnDefinitions>
+        <Border BorderBrush="#FFA3A3CE" BorderThickness="1" Margin="8" Grid.ColumnSpan="2">
+			<ListBox Margin="7,34,7,7" Background="#FF1A1A1B"/>
+		</Border>
+		<TextBlock HorizontalAlignment="Left" Height="15" Margin="11,15,0,0" TextWrapping="Wrap" Text="Table with machine detils" VerticalAlignment="Top" Width="137" Foreground="#FFFFF6F6"/>
+	</Grid>
+</Window>
